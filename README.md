@@ -6,7 +6,7 @@ My helloworld into iOS development
 
 ![Alt text](FoodTracker/Images/Icon.png?raw=true "Icon")
 
-![Alt text](FoodTracker/Images/View1.png?raw=true "Preview 1")
+![Alt text](FoodTracker/Images/View.png?raw=true "Preview 1")
 
 ![Alt text](FoodTracker/Images/View2.png?raw=true "Preview 2")
 
