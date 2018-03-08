@@ -18,7 +18,6 @@ class MealTableViewCell: UITableViewCell {
     
     
     
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
